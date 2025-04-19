@@ -1,6 +1,6 @@
 ## Hi there! I'm Sofi
 
-- 🧡 I’m currently working on developing a fullstack developer (in another words, I'm a student)
+- 🧡 I’m currently working on developing a fullstack developer (pretty words to say I'm a student)
 - 🤍 I’m currently learning C and Java
 - 🩷 Pronouns: she/her
 - 🪸 Fun fact: brazilian!
