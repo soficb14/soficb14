@@ -4,6 +4,3 @@
 - 🤍 Procurando estágio
 - 🩷 Java, Springboot, PostgreSQL, APIs, Git. 
 - 🪸 Brasília, DF
-
-[![Sofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=soficb14&show_icons=true&theme=tokyonight)](https://github.com/soficb14/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soficb14&hide_progress=true)](https://github.com/soficb14/github-readme-stats)
